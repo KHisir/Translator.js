@@ -3,7 +3,7 @@
 /**
  * Object for localization. It uses empty span-tags with the 'data-ml' attribute
  * and fill these with the localized content. The value of 'data-ml' is used as
- * key for the localized string...
+ * key for the localized string... second change
  */
 var lang = {};
 
